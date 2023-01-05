@@ -542,9 +542,9 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fisaac%2Fgh%2Ftop%2Fgraphql%2Fnext-hygraph-ac%2Fsrc%2Fpages%2Findex.js!./":
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fisaac%2Fgh%2Ftop%2Fgraphql%2Fac-next-hygraph%2Fsrc%2Fpages%2Findex.js!./":
 /*!*********************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fisaac%2Fgh%2Ftop%2Fgraphql%2Fnext-hygraph-ac%2Fsrc%2Fpages%2Findex.js ***!
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fisaac%2Fgh%2Ftop%2Fgraphql%2Fac-next-hygraph%2Fsrc%2Fpages%2Findex.js ***!
   \*********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -4523,7 +4523,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 var _this = undefined,
-    _jsxFileName = "/Users/isaac/gh/top/graphql/next-hygraph-ac/src/pages/index.js";
+    _jsxFileName = "/Users/isaac/gh/top/graphql/ac-next-hygraph/src/pages/index.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -4556,14 +4556,14 @@ var __N_SSG = true;
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!*************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fisaac%2Fgh%2Ftop%2Fgraphql%2Fnext-hygraph-ac%2Fsrc%2Fpages%2Findex.js ***!
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fisaac%2Fgh%2Ftop%2Fgraphql%2Fac-next-hygraph%2Fsrc%2Fpages%2Findex.js ***!
   \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fisaac%2Fgh%2Ftop%2Fgraphql%2Fnext-hygraph-ac%2Fsrc%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fisaac%2Fgh%2Ftop%2Fgraphql%2Fnext-hygraph-ac%2Fsrc%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fisaac%2Fgh%2Ftop%2Fgraphql%2Fac-next-hygraph%2Fsrc%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fisaac%2Fgh%2Ftop%2Fgraphql%2Fac-next-hygraph%2Fsrc%2Fpages%2Findex.js!./");
 
 
 /***/ }),
@@ -4579,5 +4579,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
